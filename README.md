@@ -30,3 +30,8 @@ pre_mod
 _decode
 
 ![decode](https://github.com/tc-qaq/CornerNet_Lite/blob/master/decode.png)
+
+# hg-featurmap-channels
+
+64-32-16-8-4-8-16-32-64
+256-256-384-384-512-384-384-512
