@@ -9,4 +9,4 @@ CornerNet_Saccade
 
 CornerNet_Squeeze
 
-![arch](https://github.com/tc-qaq/CornerNet_Lite/blob/master/squeeze.png)
+![arch](https://github.com/tc-qaq/CornerNet_Lite/blob/master/squeeze.jpg)
