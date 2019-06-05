@@ -16,3 +16,7 @@ CornerNet_Squeeze
 corner_pool
 
 ![corner_pool](https://github.com/tc-qaq/CornerNet_Lite/blob/master/corner_pool.png)
+
+pre_mod
+
+![pre_mod](https://github.com/tc-qaq/CornerNet_Lite/blob/master/pre_mod.png)
