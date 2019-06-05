@@ -10,3 +10,9 @@ CornerNet_Saccade
 CornerNet_Squeeze
 
 ![arch](https://github.com/tc-qaq/CornerNet_Lite/blob/master/squeeze.jpg)
+
+# Modules
+
+corner_pool
+
+![corner_pool](https://github.com/tc-qaq/CornerNet_Lite/blob/master/corner_pool.png)
